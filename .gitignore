@@ -1,0 +1,4 @@
+.cvsignore
+.hg
+.hgtags
+autom4te.cache
